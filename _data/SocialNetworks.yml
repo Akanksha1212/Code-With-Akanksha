@@ -8,17 +8,17 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/akankshasingh1212"
+  baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/akanksha1212"
+  baseURL: "https://github.com/"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/curiouscurie42"
+  baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
 email:
@@ -28,7 +28,7 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://www.linkedin.com/in/akanksha-singh-3210a3119/"
+  baseURL: "https://www.linkedin.com/in/"
   icon: "fa-linkedin"
 
 instagram:
