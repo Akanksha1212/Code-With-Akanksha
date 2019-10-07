@@ -35,3 +35,8 @@ instagram:
   name: "Instagram"
   baseURL: "https://www.instagram.com/"
   icon: "fa-instagram"
+
+rss:	
+  name: "RSS"	
+  baseURL: "{{ '/feed.xml' | relative_url }}"	
+  icon: "fa-rss"
