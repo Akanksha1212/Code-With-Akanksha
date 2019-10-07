@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Code With Akanksha
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "img/Akanksha Singh.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -38,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#00FFFF"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
